@@ -69,4 +69,6 @@ Make sure you have yarn installed, to successfully install the dependencies
 ## Acknowledgements
 
  - [ igdev116 /vite-react-ts-eslint-prettier ](https://github.com/igdev116/vite-react-ts-eslint-prettier)
+ - [ Folder Structure ](https://github.com/Stephen-Ibe/Stephen-Ibe)
+ - [ EliEladElromEliEladElrom/ESLint-Prettier-for-React-TypeScript-Airbnb ](https://gist.github.com/EliEladElrom/54c5046cf21877824d1bc38d5dd33d81)
 
