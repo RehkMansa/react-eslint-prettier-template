@@ -9,8 +9,8 @@
         "preview": "vite preview",
         "lint": "eslint --ext .ts,.tsx src",
         "lint:fix": "eslint --fix",
-        "check:format": "prettier  --check \"src/*.+(ts|tsx|json)\"",
-        "format": "prettier  --write \"src/*.+(ts|tsx|json)\""
+        "prettier": "prettier  --check \"src/*.+(ts|tsx|json)\"",
+        "prettier:fix": "prettier  --write \"src/*.+(ts|tsx|json)\""
     },
     "dependencies": {
         "react": "^18.2.0",
