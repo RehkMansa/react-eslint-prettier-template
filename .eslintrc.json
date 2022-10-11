@@ -87,6 +87,7 @@
         "react/jsx-wrap-multilines": "off",
         "react/destructuring-assignment": "off",
         "jsx-a11y/click-events-have-key-events": "off",
-        "jsx-a11y/interactive-supports-focus": "off"
+        "jsx-a11y/interactive-supports-focus": "off",
+        "react/button-has-type": ["warn"]
     }
 }
